@@ -1,0 +1,10 @@
+numpy
+pyspark
+matplotlib
+beautifulsoup4
+requests
+boto3
+pandas
+scikit-learn
+fsspec
+s3fs<=0.4s

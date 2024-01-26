@@ -1,0 +1,8 @@
+{
+    "Effect": "Allow",
+    "Action": "s3:PutObject*",
+    "Resource": [
+        "arn:aws:s3:::de300-project-19",
+        "arn:aws:s3:::de300-project-19/*"
+    ] 
+}
