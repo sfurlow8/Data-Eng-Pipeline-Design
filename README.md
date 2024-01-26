@@ -1,6 +1,6 @@
 # Data Engineering Pipeline Design 
 
-I completed this project with one team member in order to become comfortable with the ETL workflow usign PostgreSQL in AWS. I worked on the project for 3 months ending in June 2023. 
+I completed this project with one team member in order to become comfortable with the ETL workflow using PostgreSQL in AWS. I worked on the project for 3 months ending in June 2023. 
 
 ## Web scraping
 We scraped data on smoking rates from the Wayback Archive, CDC, and Australian Bureau of Statistics websites. This information will later be used to impute the smoking feature in the heart disease dataset, which is filled with missing values. The 3 websites provide various data on smoking rates by age, sex, race, ethnicity, smoking history, year, and other factors. Of these factors, age and sex are the ones provided for each patient in the heart disease dataset, so these were the factors we focused our scraping on. 
